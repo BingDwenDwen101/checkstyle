@@ -243,6 +243,9 @@ public class AvoidStarImportCheck
         }
     }
 
+    public void TestTravisCI(){
+        int i = 0;
+    }
     /**
      * Gets the full import identifier.  If the import is a starred import and
      * it's not excluded then a violation is logged.
